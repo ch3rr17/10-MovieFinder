@@ -1,0 +1,26 @@
+API KEY
+
+Enter your email address below that you used when donating. 
+
+Email:  
+cherr.batac@gmail.com
+  Submit 
+
+API Key: 66317471 
+
+Example: http://img.omdbapi.com/?i=tt2294629&apikey=66317471 
+
+Parameters:
+i = IMDb ID
+h (optional) = Desired height of image.
+
+
+Returns a list of movies
+`http://omdbapi.com/?s=Star%20Wars`
+
+Returns information about a single movie (by name)
+`http://omdbapi.com/?t=Star%20Wars:%20Episode%20IV%20-%20A%20New%20Hope`
+
+Returns information about a single movie (by imdb id)
+`http://omdbapi.com/?i=tt0076759`
+
